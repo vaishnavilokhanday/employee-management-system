@@ -53,3 +53,12 @@ A full-stack web application for managing departments and employees, built with 
 curl -X POST http://localhost:8080/api/departments \
   -H "Content-Type: application/json" \
   -d '{"name":"Engineering","description":"Software Engineering Department"}'
+```
+  
+## 📸 Screenshots
+
+### Main Dashboard
+
+![Employee Management System - Dashboard](docs/screenshots/screenshot-1.png)
+
+*The main interface showing the department list with search, edit, and delete actions.*
